@@ -1,0 +1,190 @@
+{ 
+    "_id" : ObjectId("5d4033e82c63456dfd3dff3a"), 
+    "seller" : {
+        "id" : "A2L77EE7U53NWQ", 
+        "name" : "Amazon Warehouse", 
+        "num_ratings" : null, 
+        "percent_positive" : null, 
+        "first_party" : "false"
+    }, 
+    "__v" : NumberInt(0), 
+    "asin" : "B00FE2N1WS", 
+    "available" : true, 
+    "comments" : "Large cosmetic imperfections on sides of the item. Large cosmetic imperfection(s) on bottom or back of the item. Item will come in original packaging. Packaging will be damaged.", 
+    "createdAt" : ISODate("2019-07-30T12:11:20.569+0000"), 
+    "currency" : "USD", 
+    "offer_id" : "zzDMp%2BVU8IQiod2OfJi99tCmS90bKCq6k56A8v1dUJfCZrtaoVScYa0wdCKKDJ4h7BIp88vEsaw6qQTtjvHF4JesIbqsAzzwIBdjTeSmHk%2FGGO%2BABZogHyntJKfVPkzNHyEbnNYDOxNZvUzW23kqwGdLiRqq3Fje", 
+    "price" : NumberInt(1424), 
+    "updatedAt" : ISODate("2019-07-30T12:16:28.951+0000")
+}
+{ 
+    "_id" : ObjectId("5d4033e82c63456dfd3dff3d"), 
+    "seller" : {
+        "id" : "A3O8MGUOH6PWUV", 
+        "name" : "IDYIASHOP", 
+        "num_ratings" : "904", 
+        "percent_positive" : "89", 
+        "first_party" : "false"
+    }, 
+    "__v" : NumberInt(0), 
+    "asin" : "B00FE2N1WS", 
+    "available" : true, 
+    "comments" : null, 
+    "createdAt" : ISODate("2019-07-30T12:11:20.572+0000"), 
+    "currency" : "USD", 
+    "offer_id" : "zzDMp%2BVU8IQiod2OfJi99tCmS90bKCq6KHpx4pLhPlgPQglCXlXjU6%2BWYZJrDB3giomIMLZ14jf375qfub1jMzWv4UlO8l1vizoQBEVS5y6bptnN6K6PMPf6v4FA6l5Bnb376hsg5OZScHQvAg1nKNWq%2FQ1yR4Nw", 
+    "price" : NumberInt(2275), 
+    "updatedAt" : ISODate("2019-07-30T12:16:28.952+0000")
+}
+{ 
+    "_id" : ObjectId("5d4033e82c63456dfd3dff3f"), 
+    "seller" : {
+        "id" : "ATVPDKIKX0DER", 
+        "name" : "Amazon.com", 
+        "num_ratings" : "1000000", 
+        "percent_positive" : "100", 
+        "first_party" : "true"
+    }, 
+    "__v" : NumberInt(0), 
+    "asin" : "B00FE2N1WS", 
+    "available" : true, 
+    "comments" : null, 
+    "createdAt" : ISODate("2019-07-30T12:11:20.571+0000"), 
+    "currency" : "USD", 
+    "offer_id" : "zzDMp%2BVU8IQiod2OfJi99tCmS90bKCq6SBkAMDKg%2Bo2tRh95gua0eTAwUEPbfoGwJy5wGC6J2NRvmRvpc0yNFLwImGgNeubnrLKo90T75IGkyYOqCpdzKQ%3D%3D", 
+    "price" : NumberInt(1898), 
+    "updatedAt" : ISODate("2019-07-30T12:16:28.952+0000")
+}
+{ 
+    "_id" : ObjectId("5d4033e82c63456dfd3dff42"), 
+    "seller" : {
+        "id" : "A3EV9F4Q1UYDYL", 
+        "name" : "GCI Store", 
+        "num_ratings" : "5161", 
+        "percent_positive" : "97", 
+        "first_party" : "false"
+    }, 
+    "__v" : NumberInt(0), 
+    "asin" : "B00FE2N1WS", 
+    "available" : true, 
+    "comments" : null, 
+    "createdAt" : ISODate("2019-07-30T12:11:20.572+0000"), 
+    "currency" : "USD", 
+    "offer_id" : "zzDMp%2BVU8IQiod2OfJi99tCmS90bKCq6sLeN6emYJmkTTq5ad5SlBv9ACZ7XEO8ciAgWkv417Y5wpvhJysKv8AVbhig56YMnDtQW3hV0U4hnZOm4CiwYXQ12U8YtT6ADtTXsvqO9%2B%2FDsZ6Hmpew6KPYRqClfnsVs", 
+    "price" : NumberInt(2276), 
+    "updatedAt" : ISODate("2019-07-30T12:16:28.952+0000")
+}
+{ 
+    "_id" : ObjectId("5d4033e82c63456dfd3dff44"), 
+    "seller" : {
+        "id" : "A1SD3U9M25WHJW", 
+        "name" : "Net To Zero", 
+        "num_ratings" : "106", 
+        "percent_positive" : "73", 
+        "first_party" : "false"
+    }, 
+    "__v" : NumberInt(0), 
+    "asin" : "B00FE2N1WS", 
+    "available" : true, 
+    "comments" : null, 
+    "createdAt" : ISODate("2019-07-30T12:11:20.572+0000"), 
+    "currency" : "USD", 
+    "offer_id" : "zzDMp%2BVU8IQiod2OfJi99tCmS90bKCq6iLRCf8lk8hYDaJl7%2F3LMmpWSzorOhO0E5nMuAYXN%2FddljinsJfj9hzIQBcBcJTIffEXd3SqNVIe0iiwdIOma6Jsw44Vh%2BRbkkS6OgbNmn%2FTyXh2%2Bax61YA5lvF7yiLHR", 
+    "price" : NumberInt(2300), 
+    "updatedAt" : ISODate("2019-07-30T12:16:28.952+0000")
+}
+{ 
+    "_id" : ObjectId("5d4033e82c63456dfd3dff46"), 
+    "seller" : {
+        "id" : "AK0X39W9935WX", 
+        "name" : "CWP Online", 
+        "num_ratings" : "20407", 
+        "percent_positive" : "100", 
+        "first_party" : "false"
+    }, 
+    "__v" : NumberInt(0), 
+    "asin" : "B00FE2N1WS", 
+    "available" : true, 
+    "comments" : null, 
+    "createdAt" : ISODate("2019-07-30T12:11:20.572+0000"), 
+    "currency" : "USD", 
+    "offer_id" : "zzDMp%2BVU8IQiod2OfJi99tCmS90bKCq65y0SB1I%2B1kEzmrSY%2BJ1aw69xdyr2t%2BbW5JlAXf1uWxDIEB3AsBbSUfJ8Jd5NiTXvlzBmRDmPnBH%2BNSCKSyt%2Bfu7pqJtxA%2FxMuSr5qLNKFlGuuJEWEQu9Cg%3D%3D", 
+    "price" : NumberInt(2195), 
+    "updatedAt" : ISODate("2019-07-30T12:16:28.952+0000")
+}
+{ 
+    "_id" : ObjectId("5d4033e82c63456dfd3dff4b"), 
+    "seller" : {
+        "id" : "ANNSJU9W28Y9J", 
+        "name" : "MemoryC", 
+        "num_ratings" : "11085", 
+        "percent_positive" : "94", 
+        "first_party" : "false"
+    }, 
+    "__v" : NumberInt(0), 
+    "asin" : "B00FE2N1WS", 
+    "available" : true, 
+    "comments" : null, 
+    "createdAt" : ISODate("2019-07-30T12:11:20.572+0000"), 
+    "currency" : "USD", 
+    "offer_id" : "zzDMp%2BVU8IQiod2OfJi99tCmS90bKCq67rALLFyPTBORqWX0%2F7Iof4%2F66IuFKV4Szd%2BI4hNgAc4Hir7XyM5yEav7txjsFaJHWnD1UI%2Bl8D1LZnrAJ3bzT6PcBuBxkZiidq21vRZQbUWCl2mv8Rc0Sw%3D%3D", 
+    "price" : NumberInt(2411), 
+    "updatedAt" : ISODate("2019-07-30T12:16:28.952+0000")
+}
+{ 
+    "_id" : ObjectId("5d4033e82c63456dfd3dff4d"), 
+    "seller" : {
+        "id" : "A3FGC2D4B3FSG9", 
+        "name" : "jdtechs2007", 
+        "num_ratings" : "214", 
+        "percent_positive" : "95", 
+        "first_party" : "false"
+    }, 
+    "__v" : NumberInt(0), 
+    "asin" : "B00FE2N1WS", 
+    "available" : true, 
+    "comments" : null, 
+    "createdAt" : ISODate("2019-07-30T12:11:20.572+0000"), 
+    "currency" : "USD", 
+    "offer_id" : "zzDMp%2BVU8IQiod2OfJi99tCmS90bKCq6jlT%2BXJ5FLW3mYXN1AKlma8odxjcpUp2PdpVWJPWXgzZe5L75%2BluM0VoEw8dmrBYJaYrU1bIeBSnwp9tZ5PFbNc%2BZ4IfjFDkvhUrRAJ2GsxHxNL7TbhBFd6QHNF3V5Ddo", 
+    "price" : NumberInt(1898), 
+    "updatedAt" : ISODate("2019-07-30T12:16:28.952+0000")
+}
+{ 
+    "_id" : ObjectId("5d4033e82c63456dfd3dff4c"), 
+    "seller" : {
+        "id" : "A3G4Z7JJ34B7QN", 
+        "name" : "ComegaCity", 
+        "num_ratings" : "7027", 
+        "percent_positive" : "98", 
+        "first_party" : "false"
+    }, 
+    "__v" : NumberInt(0), 
+    "asin" : "B00FE2N1WS", 
+    "available" : true, 
+    "comments" : null, 
+    "createdAt" : ISODate("2019-07-30T12:11:20.572+0000"), 
+    "currency" : "USD", 
+    "offer_id" : "zzDMp%2BVU8IQiod2OfJi99tCmS90bKCq6AJzg4vv6%2FqnnwCSGX24hxOrqLKtCcc7S6bh6jA917V7wh60ajeCcvXQ8zPPTzdPX1PqbUnFsAYFvBuG5GMVjb6IBl56Oozmh1PRMicrh83%2BLHh5kzmJ0Vg%3D%3D", 
+    "price" : NumberInt(2354), 
+    "updatedAt" : ISODate("2019-07-30T12:16:28.952+0000")
+}
+{ 
+    "_id" : ObjectId("5d4033e82c63456dfd3dff4f"), 
+    "seller" : {
+        "id" : "AAZRLVTNON75Z", 
+        "name" : "Triplenet Pricing INC", 
+        "num_ratings" : "67540", 
+        "percent_positive" : "96", 
+        "first_party" : "false"
+    }, 
+    "__v" : NumberInt(0), 
+    "asin" : "B00FE2N1WS", 
+    "available" : true, 
+    "comments" : null, 
+    "createdAt" : ISODate("2019-07-30T12:11:20.572+0000"), 
+    "currency" : "USD", 
+    "offer_id" : "zzDMp%2BVU8IQiod2OfJi99tCmS90bKCq6QUBkvzw2nFUa3%2BzEBkNxfG%2F1LI9meIZVDp2TMIZShk%2BS3FrbqaOP6itN2nfIjqWQhworPFjujJ3cYs4X23vYJMKAjB60dZbib2A0fAd%2BR6fo%2FX8rng18PA%3D%3D", 
+    "price" : NumberInt(2463), 
+    "updatedAt" : ISODate("2019-07-30T12:16:28.952+0000")
+}
